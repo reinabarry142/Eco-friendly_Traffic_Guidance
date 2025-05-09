@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+passlib[bcrypt]
+python-jose
+python-dotenv
+certifi
+pydantic[email]
+python-multipart
+ultralytics==8.3.127
